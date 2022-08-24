@@ -1,0 +1,6 @@
+com/userapi/application/controller/UserController.class
+com/userapi/domain/model/UserModel.class
+com/userapi/application/dto/UserDTO$UserDTOBuilder.class
+com/userapi/application/dto/UserDTO.class
+com/userapi/application/UserApiApplication.class
+com/userapi/domain/model/UserModel$UserModelBuilder.class
